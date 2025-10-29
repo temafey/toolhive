@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/stacklok/toolhive/main/docs/registry/schema.json",
-  "last_updated": "2025-08-10T00:26:00Z",
+  "last_updated": "2025-10-29T01:51:04Z",
   "servers": {
     "atlassian": {
       "args": [],
@@ -88,9 +88,9 @@
       ],
       "image": "ghcr.io/sooperset/mcp-atlassian:0.11.9",
       "metadata": {
-        "last_updated": "2025-08-10T00:25:48Z",
-        "pulls": 12409,
-        "stars": 2739
+        "last_updated": "2025-10-29T01:50:57Z",
+        "pulls": 12519,
+        "stars": 3451
       },
       "permissions": {
         "network": {
@@ -205,9 +205,9 @@
       ],
       "image": "public.ecr.aws/f3y8w4n0/awslabs/cost-analysis-mcp-server:1.0.4",
       "metadata": {
-        "last_updated": "2025-08-10T00:25:57Z",
-        "pulls": 8083,
-        "stars": 5270
+        "last_updated": "2025-10-29T01:51:02Z",
+        "pulls": 8163,
+        "stars": 6863
       },
       "permissions": {
         "network": {
@@ -263,9 +263,9 @@
       ],
       "image": "docker.io/mcp/aws-diagram:latest",
       "metadata": {
-        "last_updated": "2025-08-10T00:25:58Z",
-        "pulls": 7090,
-        "stars": 5270
+        "last_updated": "2025-10-29T01:51:03Z",
+        "pulls": 7141,
+        "stars": 6863
       },
       "permissions": {
         "network": {
@@ -315,9 +315,9 @@
       ],
       "image": "docker.io/mcp/aws-documentation:latest",
       "metadata": {
-        "last_updated": "2025-08-10T00:25:56Z",
-        "pulls": 9939,
-        "stars": 5270
+        "last_updated": "2025-10-29T01:51:02Z",
+        "pulls": 10067,
+        "stars": 6863
       },
       "permissions": {
         "network": {
@@ -388,9 +388,9 @@
       ],
       "image": "public.ecr.aws/f3y8w4n0/awslabs/aws-pricing-mcp-server:1.0.8",
       "metadata": {
-        "last_updated": "2025-08-10T00:25:48Z",
-        "pulls": 7883,
-        "stars": 5270
+        "last_updated": "2025-10-29T01:50:56Z",
+        "pulls": 7957,
+        "stars": 6863
       },
       "permissions": {
         "network": {
@@ -476,9 +476,9 @@
       ],
       "image": "mcr.microsoft.com/azure-sdk/azure-mcp:0.5.1",
       "metadata": {
-        "last_updated": "2025-08-10T00:25:46Z",
-        "pulls": 1405,
-        "stars": 1077
+        "last_updated": "2025-10-29T01:50:55Z",
+        "pulls": 1506,
+        "stars": 1167
       },
       "permissions": {
         "network": {
@@ -568,9 +568,9 @@
       ],
       "image": "ghcr.io/buildkite/buildkite-mcp-server:0.5.8",
       "metadata": {
-        "last_updated": "2025-08-10T00:25:55Z",
-        "pulls": 2996,
-        "stars": 24
+        "last_updated": "2025-10-29T01:51:01Z",
+        "pulls": 3103,
+        "stars": 39
       },
       "permissions": {
         "network": {
@@ -669,9 +669,9 @@
       ],
       "image": "quay.io/crowdstrike/falcon-mcp:latest",
       "metadata": {
-        "last_updated": "2025-08-10T00:25:57Z",
-        "pulls": 3279,
-        "stars": 33
+        "last_updated": "2025-10-29T01:51:03Z",
+        "pulls": 3402,
+        "stars": 71
       },
       "permissions": {
         "network": {
@@ -785,9 +785,9 @@
       ],
       "image": "docker.io/mcp/elasticsearch:latest",
       "metadata": {
-        "last_updated": "2025-08-10T00:25:53Z",
-        "pulls": 10511,
-        "stars": 401
+        "last_updated": "2025-10-29T01:51:00Z",
+        "pulls": 10632,
+        "stars": 530
       },
       "permissions": {
         "network": {
@@ -832,9 +832,9 @@
       "env_vars": [],
       "image": "docker.io/mcp/everything:latest",
       "metadata": {
-        "last_updated": "2025-08-10T00:25:54Z",
-        "pulls": 16447,
-        "stars": 63601
+        "last_updated": "2025-10-29T01:51:00Z",
+        "pulls": 16590,
+        "stars": 71437
       },
       "permissions": {
         "network": {
@@ -879,9 +879,9 @@
       "env_vars": [],
       "image": "ghcr.io/stackloklabs/gofetch/server:0.0.4",
       "metadata": {
-        "last_updated": "2025-08-10T00:25:59Z",
-        "pulls": 12102,
-        "stars": 17
+        "last_updated": "2025-10-29T01:51:04Z",
+        "pulls": 12174,
+        "stars": 19
       },
       "permissions": {
         "network": {
@@ -931,9 +931,9 @@
       "env_vars": [],
       "image": "docker.io/mcp/filesystem:latest",
       "metadata": {
-        "last_updated": "2025-08-10T00:25:51Z",
-        "pulls": 20047,
-        "stars": 63601
+        "last_updated": "2025-10-29T01:50:58Z",
+        "pulls": 20190,
+        "stars": 71437
       },
       "permissions": {
         "network": {
@@ -1024,9 +1024,9 @@
       ],
       "image": "docker.io/mcp/firecrawl:latest",
       "metadata": {
-        "last_updated": "2025-08-10T00:25:47Z",
-        "pulls": 12208,
-        "stars": 4063
+        "last_updated": "2025-10-29T01:50:56Z",
+        "pulls": 12317,
+        "stars": 4811
       },
       "permissions": {
         "network": {
@@ -1078,9 +1078,9 @@
       "env_vars": [],
       "image": "us-central1-docker.pkg.dev/database-toolbox/toolbox/toolbox:0.11.0",
       "metadata": {
-        "last_updated": "2025-08-10T00:25:50Z",
-        "pulls": 2064,
-        "stars": 9101
+        "last_updated": "2025-10-29T01:50:58Z",
+        "pulls": 2150,
+        "stars": 11169
       },
       "permissions": {
         "network": {
@@ -1122,9 +1122,9 @@
       "env_vars": [],
       "image": "docker.io/mcp/git:latest",
       "metadata": {
-        "last_updated": "2025-08-10T00:25:51Z",
-        "pulls": 10108,
-        "stars": 63601
+        "last_updated": "2025-10-29T01:50:58Z",
+        "pulls": 10182,
+        "stars": 71437
       },
       "permissions": {
         "network": {
@@ -1185,9 +1185,9 @@
       ],
       "image": "ghcr.io/github/github-mcp-server:v0.10.0",
       "metadata": {
-        "last_updated": "2025-08-10T00:25:49Z",
+        "last_updated": "2025-10-29T01:50:58Z",
         "pulls": 5000,
-        "stars": 20483
+        "stars": 23998
       },
       "permissions": {
         "network": {
@@ -1327,9 +1327,9 @@
       ],
       "image": "docker.io/mcp/grafana:latest",
       "metadata": {
-        "last_updated": "2025-08-10T00:25:57Z",
-        "pulls": 7840,
-        "stars": 1357
+        "last_updated": "2025-10-29T01:51:03Z",
+        "pulls": 7910,
+        "stars": 1763
       },
       "permissions": {
         "network": {
@@ -1426,9 +1426,9 @@
       ],
       "image": "docker.io/voska/hass-mcp:0.1.1",
       "metadata": {
-        "last_updated": "2025-08-10T00:25:56Z",
-        "pulls": 16498,
-        "stars": 148
+        "last_updated": "2025-10-29T01:51:02Z",
+        "pulls": 16644,
+        "stars": 216
       },
       "permissions": {
         "network": {
@@ -1483,9 +1483,9 @@
       ],
       "image": "ghcr.io/stackloklabs/mkp/server:0.0.10",
       "metadata": {
-        "last_updated": "2025-08-10T00:25:55Z",
-        "pulls": 13440,
-        "stars": 43
+        "last_updated": "2025-10-29T01:51:01Z",
+        "pulls": 13568,
+        "stars": 54
       },
       "permissions": {
         "network": {
@@ -1540,9 +1540,9 @@
       ],
       "image": "ghcr.io/nirmata/kyverno-mcp:v0.2.2",
       "metadata": {
-        "last_updated": "2025-08-10T00:25:47Z",
-        "pulls": 4418,
-        "stars": 5
+        "last_updated": "2025-10-29T01:50:55Z",
+        "pulls": 4550,
+        "stars": 13
       },
       "permissions": {
         "network": {
@@ -1600,9 +1600,9 @@
       ],
       "image": "docker.io/mcp/memory:latest",
       "metadata": {
-        "last_updated": "2025-08-10T00:25:48Z",
-        "pulls": 15394,
-        "stars": 63601
+        "last_updated": "2025-10-29T01:50:57Z",
+        "pulls": 15509,
+        "stars": 71437
       },
       "permissions": {
         "network": {
@@ -1702,9 +1702,9 @@
       ],
       "image": "docker.io/mongodb/mongodb-mcp-server:0.2.0",
       "metadata": {
-        "last_updated": "2025-08-10T00:25:48Z",
-        "pulls": 4692,
-        "stars": 547
+        "last_updated": "2025-10-29T01:50:56Z",
+        "pulls": 4784,
+        "stars": 772
       },
       "permissions": {
         "network": {
@@ -1793,9 +1793,9 @@
       ],
       "image": "docker.io/aantti/mcp-netbird:latest",
       "metadata": {
-        "last_updated": "2025-08-10T00:25:56Z",
-        "pulls": 10528,
-        "stars": 38
+        "last_updated": "2025-10-29T01:51:01Z",
+        "pulls": 10622,
+        "stars": 41
       },
       "permissions": {
         "network": {
@@ -1850,9 +1850,9 @@
       ],
       "image": "docker.io/mcp/notion:latest",
       "metadata": {
-        "last_updated": "2025-08-10T00:25:56Z",
-        "pulls": 5855,
-        "stars": 2916
+        "last_updated": "2025-10-29T01:51:02Z",
+        "pulls": 5968,
+        "stars": 3377
       },
       "permissions": {
         "network": {
@@ -1923,9 +1923,9 @@
       ],
       "image": "ghcr.io/stackloklabs/ocireg-mcp/server:0.0.4",
       "metadata": {
-        "last_updated": "2025-08-10T00:26:00Z",
-        "pulls": 7633,
-        "stars": 9
+        "last_updated": "2025-10-29T01:51:04Z",
+        "pulls": 7732,
+        "stars": 11
       },
       "permissions": {
         "network": {
@@ -1975,9 +1975,9 @@
       "env_vars": [],
       "image": "ghcr.io/stackloklabs/osv-mcp/server:0.0.7",
       "metadata": {
-        "last_updated": "2025-08-10T00:25:51Z",
-        "pulls": 9942,
-        "stars": 17
+        "last_updated": "2025-10-29T01:50:58Z",
+        "pulls": 10036,
+        "stars": 25
       },
       "permissions": {
         "network": {
@@ -2036,9 +2036,9 @@
       ],
       "image": "docker.io/mcp/perplexity-ask:latest",
       "metadata": {
-        "last_updated": "2025-08-10T00:25:53Z",
-        "pulls": 14692,
-        "stars": 1482
+        "last_updated": "2025-10-29T01:50:59Z",
+        "pulls": 14816,
+        "stars": 1733
       },
       "permissions": {
         "network": {
@@ -2079,9 +2079,9 @@
       "env_vars": [],
       "image": "mcr.microsoft.com/playwright/mcp:v0.0.32",
       "metadata": {
-        "last_updated": "2025-08-10T00:25:57Z",
-        "pulls": 23026,
-        "stars": 16593
+        "last_updated": "2025-10-29T01:51:02Z",
+        "pulls": 23175,
+        "stars": 22512
       },
       "permissions": {
         "network": {
@@ -2141,9 +2141,9 @@
       "env_vars": [],
       "image": "ghcr.io/stackloklabs/plotting-mcp:v0.0.2",
       "metadata": {
-        "last_updated": "2025-08-10T00:25:52Z",
-        "pulls": 790,
-        "stars": 0
+        "last_updated": "2025-10-29T01:50:59Z",
+        "pulls": 921,
+        "stars": 3
       },
       "permissions": {
         "network": {
@@ -2205,9 +2205,9 @@
       ],
       "image": "crystaldba/postgres-mcp:0.3.0",
       "metadata": {
-        "last_updated": "2025-08-10T00:25:47Z",
-        "pulls": 10067,
-        "stars": 877
+        "last_updated": "2025-10-29T01:50:56Z",
+        "pulls": 10151,
+        "stars": 1406
       },
       "permissions": {
         "network": {
@@ -2322,9 +2322,9 @@
       ],
       "image": "docker.io/mcp/redis:latest",
       "metadata": {
-        "last_updated": "2025-08-10T00:25:54Z",
-        "pulls": 10026,
-        "stars": 196
+        "last_updated": "2025-10-29T01:51:00Z",
+        "pulls": 10111,
+        "stars": 301
       },
       "permissions": {
         "network": {
@@ -2415,9 +2415,9 @@
       ],
       "image": "ghcr.io/semgrep/mcp:0.4.1",
       "metadata": {
-        "last_updated": "2025-08-10T00:25:53Z",
-        "pulls": 11760,
-        "stars": 399
+        "last_updated": "2025-10-29T01:51:00Z",
+        "pulls": 11865,
+        "stars": 601
       },
       "permissions": {
         "network": {
@@ -2466,9 +2466,9 @@
       "env_vars": [],
       "image": "docker.io/mcp/sequentialthinking:latest",
       "metadata": {
-        "last_updated": "2025-08-10T00:25:54Z",
-        "pulls": 14447,
-        "stars": 63601
+        "last_updated": "2025-10-29T01:51:00Z",
+        "pulls": 14540,
+        "stars": 71437
       },
       "permissions": {
         "network": {
@@ -2509,9 +2509,9 @@
       "env_vars": [],
       "image": "ghcr.io/stackloklabs/sqlite-mcp/server:0.0.1",
       "metadata": {
-        "last_updated": "2025-08-10T00:25:47Z",
-        "pulls": 3780,
-        "stars": 9
+        "last_updated": "2025-10-29T01:50:56Z",
+        "pulls": 3888,
+        "stars": 11
       },
       "permissions": {
         "network": {
@@ -2548,9 +2548,9 @@
       "env_vars": [],
       "image": "docker.io/hashicorp/terraform-mcp-server:0.2.2",
       "metadata": {
-        "last_updated": "2025-08-10T00:25:55Z",
-        "pulls": 9088,
-        "stars": 799
+        "last_updated": "2025-10-29T01:51:01Z",
+        "pulls": 9216,
+        "stars": 1025
       },
       "permissions": {
         "network": {
@@ -2599,9 +2599,9 @@
       "env_vars": [],
       "image": "docker.io/mcp/time:latest",
       "metadata": {
-        "last_updated": "2025-08-10T00:25:51Z",
-        "pulls": 10662,
-        "stars": 63601
+        "last_updated": "2025-10-29T01:50:59Z",
+        "pulls": 10743,
+        "stars": 71437
       },
       "permissions": {
         "network": {
